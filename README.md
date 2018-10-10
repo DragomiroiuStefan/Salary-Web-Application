@@ -8,3 +8,6 @@ Spring Boot standalone web application
 * H2 database
 ### Running:
 java -jar salary-app-0.0.1-SNAPSHOT.jar
+```
+localhost:8080/
+```
